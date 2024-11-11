@@ -1,4 +1,5 @@
-![MasterHead](https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif)
+![MasterHead](https://github.com/user-attachments/assets/8da0bca0-d23a-4fe8-99f9-e66b79f0b2cb)
+
 <h1 align="center">Hi 👋, I'm Mateo Pillajo</h1>
 <h3 align="center">A passionate developer from Ecuador</h3>
 <img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/a4c1ec6e4eeebce28834d5bad2764ccc/tumblr_p2kkhasBt01wvf2o5o6_250.gifv">
