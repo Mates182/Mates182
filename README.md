@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mateo Pillajo</h1>
 <h3 align="center">A passionate developer from Ecuador</h3>
-<img align="right" alt="Coding" width="100%" src="https://github.com/user-attachments/assets/8da0bca0-d23a-4fe8-99f9-e66b79f0b2cb" alt="MasterHead" style="width: 100%;">
+<img align="right" alt="Coding" width="100%" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" alt="MasterHead" style="width: 100%;">
 
 <img align="right" alt="Coding" width="200" src="https://64.media.tumblr.com/a4c1ec6e4eeebce28834d5bad2764ccc/tumblr_p2kkhasBt01wvf2o5o6_250.gifv">
 
